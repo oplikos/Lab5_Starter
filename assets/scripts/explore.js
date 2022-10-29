@@ -36,10 +36,10 @@ function init() {
                 document.querySelector('img').src = 'assets/images/smiling.png';
             }},0.2)
           }, 0.2)
+          if (!speechSynthesisElement.speaking){
+            document.querySelector('img').src = 'assets/images/smiling.png';
+            }
         })
-        if (!speechSynthesisElement.speaking){
-        document.querySelector('img').src = 'assets/images/smiling.png';
-        }
       }, 200);
     
 }
