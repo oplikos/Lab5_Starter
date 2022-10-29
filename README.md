@@ -1,6 +1,6 @@
 # Lab 5 - Starter
 - [X] Sarkis Bouzikian
-- [X] Eric tran
+- [X] Eric Tran
 
 ***Expose***
 
